@@ -31,4 +31,4 @@
 1. $ git clone https://github.com/taaachezi/bodymanager.git
 2. badymanager.sqlをphpMyAdminにインポート
 3. MAMPのルートをPublicに設定
-4. MAMPを起動し[localhost:8888/index.php]からアクセス
+4. MAMPを起動し[こちら](http://localhost:8888/index.php)からアクセスして下さい
