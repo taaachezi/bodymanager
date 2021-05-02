@@ -45,7 +45,7 @@
 		</div>
 		<div class="row mx-auto">
 			<div class="text-center col-12">
-				<h2 class="" id="menu">Change Life In Eating !!</h2>
+				<h2 class="text-center" id="menu">Change Life In Eating !!</h2>
 			</div>
 		</div>
 		<div class="container" id="menu-item" style="display: none;">
