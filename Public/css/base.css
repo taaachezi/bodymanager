@@ -1,0 +1,10 @@
+body {
+	font-family: serif,'Georgia','roboto','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,Osaka,'ＭＳ Ｐゴシック',Arial,sans-serif;
+}
+a {
+	text-decoration: none;
+ }
+.logo{
+	width: 14vh;
+	opacity: 0.6;
+}
