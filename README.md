@@ -27,3 +27,8 @@
 - 筋トレを始めたが思った様に筋肉がつかない人
 - 食事管理したい人
 
+### インストール方法(MAMP環境,PHPversion:7.4.12)
+1. $ git clone https://github.com/taaachezi/bodymanager.git
+2. badymanager.sqlをphpMyAdminにインポート
+3. MAMPのルートをPublicに設定
+4. MAMPを起動し[localhost:8888/index.php]からアクセス
